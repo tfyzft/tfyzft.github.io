@@ -4687,3 +4687,25 @@ input, select, textarea {
 		}
 
 	}
+	.intros{
+		border: 1px  ;
+		font-family: '黑体',"Courier New",monospace;
+		border-collapse: collapse;
+
+	}
+	.intros .br{
+		width: 250px;
+		color:rgb(136,136,136) ;
+		text-align: center;
+	}
+	.intros tr:nth-child(2n-1){
+		background-color:rgb(249,249,249);
+		
+	}
+.intros .left_br{
+	text-align: left;
+}
+	.intros td{
+		border: 1px solid rgb(225,225,225);
+		vertical-align: middle;
+	}
