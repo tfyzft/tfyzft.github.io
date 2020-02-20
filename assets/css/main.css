@@ -3266,7 +3266,7 @@ input, select, textarea {
 			opacity: 0;
 			position: fixed;
 			top: 0;
-			width: 100%;
+			width: 1000%;
 		}
 
 		body.is-preload #wrapper.fade-in:before {
